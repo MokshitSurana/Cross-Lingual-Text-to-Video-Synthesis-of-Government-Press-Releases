@@ -1,0 +1,10 @@
+/venv
+/tmp_assets
+/tmp_images
+/delete
+/models
+output*
+20*
+**/__pycache__
+/__pycache__
+.vscode
